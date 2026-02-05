@@ -184,8 +184,3 @@ Create, configure and use Deep Chat components without writing any code in the o
 <p align="center">
     <img width="750" src="https://github.com/OvidijusParsiunas/deep-chat/assets/18709577/6b78907c-c4c2-44de-b4c7-d73c1e887fa8" alt="Expanded View">
 </p>
-
-## :heart: Contributions
-
-Open source is built by the community for the community. All contributions to this project are welcome!<br>
-Additionally, if you have any suggestions for enhancements, ideas on how to take the project further or have discovered a bug, do not hesitate to create a new issue ticket and we will look into it as soon as possible!
